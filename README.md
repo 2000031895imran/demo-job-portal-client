@@ -1,4 +1,4 @@
-## Project Title: `Hunter`
+## Project Title: `Job Portal`
 
 [Live Site](https://hunter-iota.vercel.app/)
 
@@ -44,3 +44,7 @@ This project exists thanks to my youtube audience who contribute.
 ## License
 
 [MIT](LICENSE) © Md Al Mamun# demo-job-portal-client
+
+
+HERE IS THE BELOW OUTPUT IMAGE IS SHOWING THAT "JOB PROTAL" WEB SITE
+![image](https://github.com/user-attachments/assets/29d6fb67-8b68-4f34-b642-9163033855ae)
